@@ -46,3 +46,11 @@
   border-radius: 12px 12px 12px 12px;
   box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
 }
+
+.posts__inner{
+  padding: 50px 0;
+} 
+
+.post__text{
+  border: none;
+}
